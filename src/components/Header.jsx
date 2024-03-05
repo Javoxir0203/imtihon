@@ -23,9 +23,9 @@ const Header = () => {
 						<NavLink to={'/Accessories'}>Accessories</NavLink>
 					</li>
 				</ul>
-				<Link to={'/'}>
+				
 					<img src={logo} alt='' />
-				</Link>
+
 				<div className='flex justify-between w-[30%]'>
 					<input className='pl-3 bg-transparent outline-none border-b-[1px] border-solid border-[#00000079]' type='text' placeholder='Search...' />
 					<button>
