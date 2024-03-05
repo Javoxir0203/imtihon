@@ -3,7 +3,7 @@ import Accessories from './pages/Accessories';
 import Clothes from './pages/Clothes';
 import Shoes from './pages/Shoes';
 import Header from './components/Header';
-import Home from './pages/home';
+import Home from './pages/Home';
 import LoginPage from './pages/LoginPage';
 import AccountInformation from './pages/AccountInformation';
 import LoginLayouts from './layouts/LoginLayouts';
