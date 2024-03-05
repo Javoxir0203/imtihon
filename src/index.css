@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+* {
+	font-family: 'Mulish', sans-serif;
+}
+
+.hero {
+	background-image: url(../src/assets/images/logo-big.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 900px;
+}
+.swiper-pagination-bullet-active {
+	background-color: #38a169;
+}
+
+.swiper-pagination-bullet {
+	background-color: white;
+	width: 12px;
+	height: 12px;
+	margin: 0 4px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+a.active {
+	color: red;
+}
