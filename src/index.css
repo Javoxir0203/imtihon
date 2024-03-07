@@ -9,7 +9,7 @@
 }
 
 .hero {
-	background-image: url(../src/assets/images/logo-big.png);
+	background-image: url("./images/logo-big.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 900px;

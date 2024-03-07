@@ -1,5 +1,5 @@
-import shoes from '../assets/images/shoes.svg';
-import drees from '../assets/images/drees.svg';
+import shoes from '../images/shoes.svg';
+import drees from '../images/drees.svg';
 import CancelIcon from '@mui/icons-material/Cancel';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import Footer from '../components/Footer';

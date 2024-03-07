@@ -1,4 +1,4 @@
-import arrow from '../assets/images/arrow-up.svg';
+import arrow from '../images/arrow-up.svg';
 import { Link } from 'react-scroll';
 import Silder from './Silder';
 

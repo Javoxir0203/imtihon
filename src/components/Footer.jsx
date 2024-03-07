@@ -1,8 +1,8 @@
-import logo from '../assets/images/logo.svg';
+import logo from '../images/logo.svg';
 import { Link } from 'react-router-dom';
-import Facebook from '../assets/images/Facebook.svg';
-import Twitter from '../assets/images/Twitter.svg';
-import istgram from '../assets/images/istgram.svg';
+import Facebook from '../images/Facebook.svg';
+import Twitter from '../images/Twitter.svg';
+import istgram from '../images/istgram.svg';
 
 const Footer = () => {
 	return (

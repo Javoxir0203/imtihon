@@ -1,6 +1,6 @@
 import Category from "../components/Category";
 import Sort from "../components/Sort";
-import Footer from "./../components/Footer";
+import Footer from "../components/Footer";
 
 
 

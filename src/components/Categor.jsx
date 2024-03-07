@@ -1,4 +1,4 @@
-import closeicon from '../assets/images/close-icon.svg';
+import closeicon from '../images/close-icon.svg';
 
 const Categor = ({ title }) => {
 	return (

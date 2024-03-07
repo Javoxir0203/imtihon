@@ -1,9 +1,9 @@
 import { Link, NavLink } from 'react-router-dom';
-import logo from '../assets/images/logo.svg';
-import search from '../assets/images/search.svg';
-import user from '../assets/images/user.svg';
-import bag from '../assets/images/bag.svg';
-import healt from '../assets/images/healt.svg';
+import logo from '../images/logo.svg';
+import search from '../images/search.svg';
+import user from '../images/user.svg';
+import bag from '../images/bag.svg';
+import healt from '../images/healt.svg';
 
 const Header = () => {
 	return (
